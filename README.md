@@ -1,6 +1,6 @@
 # *Patiriella regularis* genome – code
 
-Code for the genome assembly, decontamination and quality assessment of *Patiriella regularis* (Verrill, 1867), the New Zealand common cushion star, known in te reo Māori as kapu parahua. Asteroidea: Valvatida: Asterinidae. Sequenced with PacBio Revio HiFi from a single individual, specimen S8, a uniformly blue animal. File names carry the identifier B1, which is the tube the extracted DNA was sent to the sequencing provider in.
+Code for the genome assembly, decontamination and quality assessment of *Patiriella regularis*, the New Zealand common cushion star, known in te reo Māori as kapu parahua. Asteroidea: Valvatida: Asterinidae. Sequenced with PacBio Revio HiFi from a single individual, specimen S8, a uniformly blue animal. File names carry the identifier B1, which is the tube the extracted DNA was sent to the sequencing provider in.
 
 > Citation to follow.
 
